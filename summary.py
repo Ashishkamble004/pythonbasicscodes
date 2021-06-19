@@ -409,19 +409,3 @@ print(myItalianChef.age);
 
 # I N T E R P R E T E R
 python3
-
-    © 2021 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-Loading complete
