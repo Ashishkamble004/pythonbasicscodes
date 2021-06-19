@@ -2,3 +2,6 @@ Jim = Salesman
 Pam = Receptionist
 Dwight = Salesman
 Michael = Manager
+Angela = Accountant
+Toby = Human Resources
+Kelly = Customer Service
